@@ -56,5 +56,3 @@ Fetch → Decode → Execute → Memory → Write-Back
 - Implement on FPGA (Basys3/Nexys)
 - Extend to full RV32I instruction set
 
-## Status
-> Built during BE — personal project
